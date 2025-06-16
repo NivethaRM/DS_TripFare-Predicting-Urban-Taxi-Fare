@@ -1,6 +1,8 @@
 🚖 TripFare: Predicting Urban Taxi Fare with Machine Learning
+
 📌 Overview
 The TripFare project aims to predict the total fare for New York City taxi rides using machine learning models. The goal is to enhance fare transparency, help users estimate trip costs in real-time, and support ride-sharing and urban mobility systems with predictive analytics. We used a real-world dataset and built a complete pipeline — from data preprocessing to model deployment using Streamlit.
+
 
 🧠 Problem Statement
 As a Data Analyst at an urban mobility analytics firm, your mission is to unlock insights from NYC taxi trip data to build a fare estimation system. This system helps:
