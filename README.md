@@ -1,6 +1,7 @@
 🚖 TripFare: Predicting Urban Taxi Fare with Machine Learning
 
 📌 Overview
+
 The TripFare project aims to predict the total fare for New York City taxi rides using machine learning models. The goal is to enhance fare transparency, help users estimate trip costs in real-time, and support ride-sharing and urban mobility systems with predictive analytics. We used a real-world dataset and built a complete pipeline — from data preprocessing to model deployment using Streamlit.
 
 
@@ -16,17 +17,18 @@ As a Data Analyst at an urban mobility analytics firm, your mission is to unlock
 * Tourists plan trip budgets more effectively.
 
 🎯 Real-World Use Cases
-  🛺 Ride-Hailing Platforms – Live fare estimates for better user trust.
+  * 🛺 Ride-Hailing Platforms – Live fare estimates for better user trust.
   
-  🚖 Driver Incentive Systems – Help drivers know when and where to drive.
+  * 🚖 Driver Incentive Systems – Help drivers know when and where to drive.
   
-  🌆 Urban Mobility Analytics – Analyze trip trends for policy planning.
+  * 🌆 Urban Mobility Analytics – Analyze trip trends for policy planning.
   
-  🧳 Travel Budgeting – Help travelers plan and manage trip costs.
+  * 🧳 Travel Budgeting – Help travelers plan and manage trip costs.
   
-  👥 Taxi Pooling & Sharing – Enable smarter dynamic pricing.
+  * 👥 Taxi Pooling & Sharing – Enable smarter dynamic pricing.
 
 📂 Dataset
+
 The dataset includes historical NYC taxi trip records with fields like pickup and dropoff timestamps, coordinates, passenger count, rate code, payment type, and fare components.
 👉 Target variable: total_amount
 
@@ -44,6 +46,7 @@ The dataset includes historical NYC taxi trip records with fields like pickup an
 | total\_amount                              | Final total amount paid (target variable)          |
 
 🛠️ Skills & Tools Used
+
 Python, Pandas, NumPy
 
 * EDA & Visualization: Matplotlib, Seaborn
@@ -61,6 +64,7 @@ Python, Pandas, NumPy
 * Model Saving: Pickle
 
 🔍 Workflow & Tasks
+
 1️⃣ Data Understanding & Cleaning
   * Loaded and explored dataset using pandas
   
