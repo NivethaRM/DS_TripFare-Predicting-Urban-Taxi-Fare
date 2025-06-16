@@ -75,14 +75,14 @@ Python, Pandas, NumPy
   
   * trip_duration_minutes from pickup and dropoff datetime
 
-pickup_hour, is_night, pickup_dayofweek extracted from timestamp
+  * pickup_hour, is_night, pickup_dayofweek extracted from timestamp
 
 3️⃣ Exploratory Data Analysis
   * Distribution plots for fare, distance, duration
   
   * Correlation heatmap
 
-Fare vs. distance, passenger count, time-of-day analysis
+  * Fare vs. distance, passenger count, time-of-day analysis
 
 4️⃣ Data Transformation
   * Outlier removal (Z-score & IQR)
